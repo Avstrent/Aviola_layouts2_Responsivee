@@ -1,0 +1,47 @@
+body > *{
+    margin: 5px;
+    border: 2px solid black;
+    font-size: 2rem;
+    justify-content: center;
+    text-align: center;
+
+   
+}
+main{
+    width: auto;
+    display: inline-block;
+    border:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+    
+
+}
+header{
+    padding: 30px;
+    
+  
+    
+}
+nav{
+    padding: 30px;
+
+}
+footer{ 
+    padding: 30px;
+   
+}
+aside{
+    margin: 1px;
+    flex: auto;
+    width: auto;
+    width: 50%;
+  
+    height: 49vh;
+    border: black 2px solid;
+    padding-top: 150px;
+   
+ 
+}
